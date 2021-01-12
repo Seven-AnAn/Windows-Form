@@ -1,0 +1,12 @@
+E:\VisualStudio\Formvisible\Formvisible\bin\Release\Formvisible.exe.config
+E:\VisualStudio\Formvisible\Formvisible\bin\Release\Formvisible.exe
+E:\VisualStudio\Formvisible\Formvisible\bin\Release\Formvisible.pdb
+E:\VisualStudio\Formvisible\Formvisible\obj\Release\Formvisible.csprojAssemblyReference.cache
+E:\VisualStudio\Formvisible\Formvisible\obj\Release\Formvisible.Form1.resources
+E:\VisualStudio\Formvisible\Formvisible\obj\Release\Formvisible.Form2.resources
+E:\VisualStudio\Formvisible\Formvisible\obj\Release\Formvisible.Form3.resources
+E:\VisualStudio\Formvisible\Formvisible\obj\Release\Formvisible.Properties.Resources.resources
+E:\VisualStudio\Formvisible\Formvisible\obj\Release\Formvisible.csproj.GenerateResource.cache
+E:\VisualStudio\Formvisible\Formvisible\obj\Release\Formvisible.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Formvisible\Formvisible\obj\Release\Formvisible.exe
+E:\VisualStudio\Formvisible\Formvisible\obj\Release\Formvisible.pdb
