@@ -1,0 +1,11 @@
+D:\Document\VisualStudio\Formvisible\Formvisible\bin\Debug\Formvisible.exe.config
+D:\Document\VisualStudio\Formvisible\Formvisible\bin\Debug\Formvisible.exe
+D:\Document\VisualStudio\Formvisible\Formvisible\bin\Debug\Formvisible.pdb
+D:\Document\VisualStudio\Formvisible\Formvisible\obj\Debug\Formvisible.csprojAssemblyReference.cache
+D:\Document\VisualStudio\Formvisible\Formvisible\obj\Debug\Formvisible.Form1.resources
+D:\Document\VisualStudio\Formvisible\Formvisible\obj\Debug\Formvisible.Properties.Resources.resources
+D:\Document\VisualStudio\Formvisible\Formvisible\obj\Debug\Formvisible.csproj.GenerateResource.cache
+D:\Document\VisualStudio\Formvisible\Formvisible\obj\Debug\Formvisible.exe
+D:\Document\VisualStudio\Formvisible\Formvisible\obj\Debug\Formvisible.pdb
+D:\Document\VisualStudio\Formvisible\Formvisible\obj\Debug\Formvisible.Form2.resources
+D:\Document\VisualStudio\Formvisible\Formvisible\obj\Debug\Formvisible.Form3.resources
