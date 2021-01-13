@@ -1,0 +1,9 @@
+D:\Document\VisualStudio\Image_Upload\Image_Upload\Image_Upload\bin\Debug\Image_Upload.exe.config
+D:\Document\VisualStudio\Image_Upload\Image_Upload\Image_Upload\bin\Debug\Image_Upload.exe
+D:\Document\VisualStudio\Image_Upload\Image_Upload\Image_Upload\bin\Debug\Image_Upload.pdb
+D:\Document\VisualStudio\Image_Upload\Image_Upload\Image_Upload\obj\Debug\Image_Upload.csprojAssemblyReference.cache
+D:\Document\VisualStudio\Image_Upload\Image_Upload\Image_Upload\obj\Debug\Image_Upload.Form1.resources
+D:\Document\VisualStudio\Image_Upload\Image_Upload\Image_Upload\obj\Debug\Image_Upload.Properties.Resources.resources
+D:\Document\VisualStudio\Image_Upload\Image_Upload\Image_Upload\obj\Debug\Image_Upload.csproj.GenerateResource.cache
+D:\Document\VisualStudio\Image_Upload\Image_Upload\Image_Upload\obj\Debug\Image_Upload.exe
+D:\Document\VisualStudio\Image_Upload\Image_Upload\Image_Upload\obj\Debug\Image_Upload.pdb
