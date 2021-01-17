@@ -1,0 +1,9 @@
+D:\Document\AforgeDemo\obj\Release\AforgeDemo.csprojAssemblyReference.cache
+D:\Document\AforgeDemo\obj\Release\AforgeDemo.Form1.resources
+D:\Document\AforgeDemo\obj\Release\AforgeDemo.Properties.Resources.resources
+D:\Document\AforgeDemo\obj\Release\AforgeDemo.csproj.GenerateResource.cache
+E:\Code\VisualStudioProjects\AforgeDemo1\obj\Release\AforgeDemo.csprojAssemblyReference.cache
+E:\Code\VisualStudioProjects\AforgeDemo1\obj\Release\AforgeDemo.Form1.resources
+E:\Code\VisualStudioProjects\AforgeDemo1\obj\Release\AforgeDemo.Properties.Resources.resources
+E:\Code\VisualStudioProjects\AforgeDemo1\obj\Release\AforgeDemo.csproj.GenerateResource.cache
+E:\Code\VisualStudioProjects\AforgeDemo1\obj\Release\AforgeDemo.csproj.CoreCompileInputs.cache
